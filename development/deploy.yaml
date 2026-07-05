@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: dev-app-1
+  namespace: argocd-demo
   labels:
     app: nginx
 spec:
