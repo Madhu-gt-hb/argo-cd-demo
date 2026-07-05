@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Madhu-gt-hb/argo-cd-demo.git
+    repoURL: https://github.com/Madhu-gt-hb/argo-cd-demo
     targetRevision: HEAD
     path: development
 
