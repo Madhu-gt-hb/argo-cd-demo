@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: dev-svc-1
+  name: sample-svc-1
   namespace: argocd-demo
 spec:
   type: NodePort
